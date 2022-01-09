@@ -1,6 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "Java/WarmUp-1/backAround",
-        "Java/WarmUp-1/startHi"
+        "Java/String-2/wordEnds"
     ]
 }
